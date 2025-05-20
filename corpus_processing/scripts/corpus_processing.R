@@ -177,7 +177,8 @@ filter_rare_noise <- function(unnested_corpus, rare_cutoff = 3) {
               "aaah","oh","ooh","aw","uhhum","hum")
   
   unnested_corpus %>%
-    dplyr::filter(!(word %in% noises | word %in% rare_words))
+    dplyr::filter(!(word %in% noises | word %in% rare_words)) %>%
+    filter(!str_detect(word, "[^ -~]"))
 }
 
 
