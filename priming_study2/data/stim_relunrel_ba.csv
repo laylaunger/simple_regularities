@@ -1,0 +1,17 @@
+Cond_Prime,word1,word2
+Rel,feet,hand
+Rel,stroller,car
+Rel,juice,milk
+Rel,mouth,nose
+Rel,book,ball
+Rel,blanket,diaper
+Rel,bottle,spoon
+Rel,dog,baby
+Unrel,feet,milk
+Unrel,blanket,dog
+Unrel,baby,spoon
+Unrel,book,diaper
+Unrel,juice,car
+Unrel,nose,bottle
+Unrel,hand,stroller
+Unrel,mouth,ball
