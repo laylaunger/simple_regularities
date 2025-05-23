@@ -18,4 +18,4 @@ This repository includes components with scripts and data for the following step
 
 (5) Study 3: test whether the derived measures can predict the interconnected word knowledge that is acquired across childhood
 
-![](similarity_meaning_study1/figures/cooccurrence_categories.png)
+![](similarity_meaning_study1/figures/cooccurrence_categories.png){width="757"}
