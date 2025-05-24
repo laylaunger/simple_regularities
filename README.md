@@ -1,3 +1,5 @@
+Can statistical regularities in language support the acquisition of richly interconnected word knowledge?
+
 This repository includes R scripts and data for the paper, No Frills: Simple Regularities go a Long Way in the Development of Word Knowledge.
 
 This project was inspired by the fact that AI language models have achieved impressive success in emulating human langauge fluency, even when trained on relatively small amounts of everyday language input to children.
